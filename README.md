@@ -7,29 +7,28 @@ This repository contains documentation and results from the experiments conducte
 ## 🔬 Experiments Conducted
 
 1. **Motion Analysis of Human Finger**  
-   Analyzing the kinematic behavior of finger joints during motion.
+   Analyzed the kinematics of human finger motion using motion tracking software to study the effects of mass distribution on movement characteristics.
 
 2. **Static Analysis of a Human Wrist**  
-   Examining torque and force relationships in a static wrist model.
+   Performed static analysis of the human wrist to evaluate joint stability and muscle response under varying load conditions using motion tracking and simulation.    
 
 3. **Robotic Gripper Analysis**  
-   Investigating the mechanics and force transmission in robotic grippers.
+   Analyzed the force exerted by a robotic gripper across varying apertures to evaluate its performance and optimize grip design under different conditions.
 
 4. **Forward Kinematics of a Manipulator (MATLAB)**  
-   Implementing forward kinematics using MATLAB for a serial robotic arm.
+   Developed and validated a forward kinematics model of a serial manipulator using MATLAB and Denavit-Hartenberg parameters.  
 
 5. **Robot Manipulability Measurement**  
-   Measuring and analyzing the manipulability index of robotic arms.
+   Measured a robot's manipulability using MATLAB by analyzing how different configurations affect the Jacobian, force ellipsoid, and velocity ellipsoid.
 
 6. **Friction Coefficient and Power Estimation**  
-   Determining linear equivalent friction coefficients and estimating maximum power required for robot motion.
+   Investigated the linear equivalent friction coefficient and maximum power required for robot movement under different load conditions to enhance energy efficiency and performance.
 
 7. **Gear Ratio Analysis of a Mobile Robot**  
-   Estimating gear ratio based on motor current, efficiency, and overall system performance.
+   Analyzed how different gear ratios affect motor current, efficiency, and overall system performance to determine the optimal gear ratio for mobile robot operation.
 
 8. **Friction Measurement in a Linear System**  
-   Experimental analysis of friction in a linear actuator setup.
-
+    Measured friction in a linear system by analyzing motion parameters to calculate static and kinetic friction coefficients, providing insights into system efficiency and performance.
 ---
 
 ## 👨‍🏫 Supervisor
@@ -53,8 +52,8 @@ Dhaka, Bangladesh
 ## 📁 Folder Structure
 
 ```text
-├── Experiment-1/ Lab_report-1
-├── Experiment-2/ Lab-report-2
+├── Experiment-1/ Lab Report 1
+├── Experiment-2/ Lab Report 2
 ├── ...
 └── README.md
 
