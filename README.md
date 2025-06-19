@@ -1,42 +1,60 @@
-# RME-4111-Advanced-Robotics-Lab
+# RME-4111: Advanced Robotics Lab
 
-Experiments done in the lab:
+This repository contains documentation and results from the experiments conducted as part of the **RME-4111 Advanced Robotics Lab** course at the Department of Robotics & Mechatronics Engineering, University of Dhaka.
 
-* Experiment 1: Motion Analysis of Human Finger.
+---
 
-* Experiment 2: Static analysis of a human wrist.
+## 🔬 Experiments Conducted
 
-* Experiment 3: Robotic Gripper Analysis.
+1. **Motion Analysis of Human Finger**  
+   Analyzing the kinematic behavior of finger joints during motion.
 
-* Experiment 4: Forward kinematics of a manipulator using MATLAB.
+2. **Static Analysis of a Human Wrist**  
+   Examining torque and force relationships in a static wrist model.
 
-* Experiment 5: Robots manipulability measurement.
+3. **Robotic Gripper Analysis**  
+   Investigating the mechanics and force transmission in robotic grippers.
 
-* Experiment 6: Determining linear equivalent friction coefficient and maximum power required for moving a robot.
+4. **Forward Kinematics of a Manipulator (MATLAB)**  
+   Implementing forward kinematics using MATLAB for a serial robotic arm.
 
-* Experiment 7: Gear ratio of a mobile robot based on motor current, efficiency and system performance.
+5. **Robot Manipulability Measurement**  
+   Measuring and analyzing the manipulability index of robotic arms.
 
-* Experiment 8: Friction measurement in a linear system.
+6. **Friction Coefficient and Power Estimation**  
+   Determining linear equivalent friction coefficients and estimating maximum power required for robot motion.
 
+7. **Gear Ratio Analysis of a Mobile Robot**  
+   Estimating gear ratio based on motor current, efficiency, and overall system performance.
 
+8. **Friction Measurement in a Linear System**  
+   Experimental analysis of friction in a linear actuator setup.
 
-Supervisor:
+---
 
-Dr. Shamim Ahmed Deowan
+## 👨‍🏫 Supervisor
 
-Associate Professor
-
-Department of Robotics & Mechatronics Engineering
-
-University of Dhaka
-
+**Dr. Shamim Ahmed Deowan**  
+*Associate Professor*  
+Department of Robotics & Mechatronics Engineering  
+University of Dhaka  
 Dhaka, Bangladesh
 
+---
 
-Team Members:
+## 👥 Team Members
 
-1. Rabeya Akter (SK-092-015)
+1. **Rabeya Akter** (ID: SK-092-015)  
+2. **Safaeid Hossain Arib** (ID: FH-092-020)  
+3. **Tapos Biswas** (ID: JN-092-004)
 
-2. Safaeid Hossain Arib (FH-092-020)
-   
-3 Tapos Biswas (JN-092-004)
+---
+
+## 📁 Folder Structure
+
+```text
+├── Experiment-1/ Lab_report-1
+├── Experiment-2/ Lab-report-2
+├── ...
+└── README.md
+
